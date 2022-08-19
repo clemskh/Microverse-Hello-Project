@@ -1,74 +1,67 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Microverse Project 
 
-# Project Name
+This project is to set up a "Hello World" repository. The goal is to show understanding of previous lessons learnt and tools, it does not require complex coding.
+- Branching
+- Setting up Linters 
+- Fixing Lint errors 
+- Requesting code reviews 
+- Requesting pull requests
 
-> Description the project.
+## Built With 
+- Visual Studio Code
+- Git 
+- Chrome 
+- Js.node
 
+## Live Demo 
+- https://mansa-susa.github.io/microverse_hello/ 
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## Getting Started To get a local copy up and running follow these simple example steps.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 
+- Html 
+- Css 
 
-### Setup
+### Setup Clone repository from 
+[@githubhandle](https://github.com/mansa-susa) 
 
-### Install
+Open files in your Text editor / IDE  Load on Browser 
+
+### Install 
 
 ### Usage
 
 ### Run tests
+- Linters  
+- Lighthouse 
+- Webhint (run npx hint .) 
+- Stylelint (run npx stylelint "**/*.{css,scss}" )
 
 ### Deployment
 
+## Authors 
 
+👤 **Author1** 
 
-## Authors
+- GitHub: [@githubhandle](https://github.com/mansa-susa) 
+- Twitter: [@twitterhandle](https://twitter.com/mansa_susa) 
+- LinkedIn: [LinkedIn](https://linkedin.com/in/faruq-hammed-931862169/)  
 
-👤 **Author1**
+## 🤝 Contributing  
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](../../issues/).  
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Show your support  Give a ⭐ if you like this project!  
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+## Acknowledgments  
+- Hat tip to anyone whose code was used 
+- Inspiration 
+- etc  
 
 ## 📝 License
+
 
 This project is [MIT](./LICENSE) licensed.
 
