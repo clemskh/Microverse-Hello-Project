@@ -46,7 +46,7 @@ Open files in your Text editor / IDE  Load on Browser
 👤 **Author1** 
 
 - GitHub: [@githubhandle](https://github.com/clemskh) 
-- LinkedIn: [LinkedIn](www.linkedin.com/in/clemence-houngbadji-a846a0186)  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/clemence-houngbadji-a846a0186) 
 
 ## 🤝 Contributing  
 Contributions, issues, and feature requests are welcome!  
