@@ -45,9 +45,8 @@ Open files in your Text editor / IDE  Load on Browser
 
 👤 **Author1** 
 
-- GitHub: [@githubhandle](https://github.com/mansa-susa) 
-- Twitter: [@twitterhandle](https://twitter.com/mansa_susa) 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/faruq-hammed-931862169/)  
+- GitHub: [@githubhandle](https://github.com/clemskh) 
+- LinkedIn: [LinkedIn](www.linkedin.com/in/clemence-houngbadji-a846a0186)  
 
 ## 🤝 Contributing  
 Contributions, issues, and feature requests are welcome!  
