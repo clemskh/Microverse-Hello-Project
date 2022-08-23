@@ -14,8 +14,7 @@ This project is to set up a "Hello World" repository. The goal is to show unders
 - Js.node
 
 ## Live Demo 
-- https://mansa-susa.github.io/microverse_hello/ 
-
+- [https://github.com/clemskh/Microverse-Hello-Project]
 ## Getting Started To get a local copy up and running follow these simple example steps.
 
 To get a local copy up and running follow these simple example steps.
@@ -25,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - Css 
 
 ### Setup Clone repository from 
-[@githubhandle](https://github.com/mansa-susa) 
+[@githubhandle](https://github.com/clemskh) 
 
 Open files in your Text editor / IDE  Load on Browser 
 
